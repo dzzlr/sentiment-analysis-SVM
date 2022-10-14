@@ -1,5 +1,10 @@
+import os
+import sys
 from flask import Flask, render_template, request
 from werkzeug.serving import run_simple
+
+sys.path.append('../')
+os.chdir('../')
 
 app = Flask(__name__)
 
