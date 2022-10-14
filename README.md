@@ -1,1 +1,1 @@
-# sentiment-analysis-SVM
+# Sentiment Analysis SVM
